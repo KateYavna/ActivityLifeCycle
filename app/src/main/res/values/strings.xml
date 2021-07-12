@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="name">Name</string>
+    <string name="surname">SurName</string>
+    <string name="age">Age</string>
+    <string name="idNumber">ID number</string>
+    <string name="enter">Enter</string>
+    <string name="etPinCode">PIN code</string>
+    <string name="tvPrompt">enter your PIN</string>
+    <string name="tvIncorrect">Your PIN incorrect </string>
+</resources>
